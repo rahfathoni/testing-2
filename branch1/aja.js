@@ -1,5 +1,5 @@
 adadada;
-for(let i; i< 4; i++){
-    console.log('haha')
+for(let i; i< 3; i++){
+    console.log('tralala')
 }
 let deh;
