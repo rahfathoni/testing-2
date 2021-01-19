@@ -1,3 +1,3 @@
 if (true) {
-    let index = 0;
+    let b1 = 0;
 }
